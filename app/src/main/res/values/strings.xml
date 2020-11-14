@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">JokeApp</string>
+    <string name="uname">uname</string>
+    <string name="lgin">lgin</string>
+    <string name="reg">reg</string>
+    <string name="pass">pass</string>
+</resources>
